@@ -1,7 +1,3 @@
-# Evolus-Pencil-GOV-UK-elements-stencil
-A stencil set for Evolus Pencil based on the GOV.UK elements.
-
-
 # GOV.UK Stencils for Evolus Pencil
 
 Collection of UI elements for Pencil ([pencil.evolus.vn](http://pencil.evolus.vn/)) based on GOV.UK ([Elements](http://govuk-elements.herokuapp.com/))
